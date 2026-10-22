@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Audio Data (Raw audio clips should be downloaded via crawler or hosted on Kaggle/LFS)
+audio/
+*.wav
+*.mp3
+*.flac
+*.ogg
+
+# Temporary files & OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log

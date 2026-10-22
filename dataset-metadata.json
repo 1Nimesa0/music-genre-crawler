@@ -1,0 +1,19 @@
+{
+  "title": "Music Genre Recognition: 10 Genres Audio Dataset",
+  "id": "YOUR_KAGGLE_USERNAME/music-genre-recognition-10-genres",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "music",
+    "audio",
+    "deep learning",
+    "classification",
+    "speech and audio",
+    "music information retrieval",
+    "signal processing",
+    "spectrogram"
+  ]
+}
